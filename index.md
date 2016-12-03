@@ -12,14 +12,14 @@ A Nintendo Character
 
 ### about
 
-test just for fun
-
+test 
+just for fun
+中文測試
 Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
 
 ### Links
 
- * [部落格] 
- * [今天來學怎麼用github]
+ * [今天來學怎麼用github](https://docs.google.com/document/d/1_3H83c_t_rvEIc02xGXfpnKiBq8rfOmjkwPTPy4_SRM/edit)
  * [直播連結](https://www.youtube.com/watch?v=HUygmdbH0gI)
  * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
  * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
